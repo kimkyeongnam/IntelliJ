@@ -1,7 +1,6 @@
 # IntelliJ 사용기
 
-## 문제 해결
-### 1. Windows 환경에서 IntelliJ 터미널의 한글이 깨질 경우
+### Windows 환경에서 IntelliJ 터미널의 한글이 깨질 경우
 - `$ export LANG='ko_KR.UTF-8'` 입력
 - 참고 : https://github.com/iamkyu/dotfiles/issues/2
 
